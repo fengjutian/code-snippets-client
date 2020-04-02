@@ -1,9 +1,17 @@
+.App {
+  background: #141414;
+}
+
 .header-style{
   height: 50px;
 }
 
 .content-style {
   height: calc(100vh - 100px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
 }
 
 .footer-style{
